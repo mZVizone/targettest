@@ -1,0 +1,2 @@
+Todos os arquivos tem que ser baixados e abertos em um editor, eu utilizei o VisualStudio.
+Para o codigo do exercicio 3 os arquivos tem que ser baixados, para o programa funcionar deve ser copiado o caminho do arquivo base_3.xml e colado no local indicado na linha 3 do arquivo exercicio-3.py.
