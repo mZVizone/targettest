@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
 
-tree = ET.parse(r'C:\Users\andre.silva\Desktop\processo selectivo target\base_ex3.xml')
+tree = ET.parse(r'Cole o caminho do arquivo base_ex3.xml aqui. ')
 root = tree.getroot()
 
 faturamento_diario = []
